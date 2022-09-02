@@ -3,7 +3,7 @@ Chrome is Slow. Sometimes you might be frustrated with google chrome. That's why
 It is Simple and very light weight web browser.
 
 # Setup
-Install PyQt
+Just open Terminal and run
 pip install PyQt5
 
 # Run The Code
